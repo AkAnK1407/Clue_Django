@@ -15,5 +15,3 @@ def profile_page(request):
 
 def club_event(request):
     return render(request, 'club_event.html')
-# def club_event(request):
-#     return render(request, 'club_event.html')
